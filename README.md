@@ -1,2 +1,3 @@
-# praticando-java-data-e-hora
-Curso Alura - Praticando Java: Data e Hora
+Curso Alura - Praticando Java: Data e Hora <br>
+
+https://cursos.alura.com.br/course/praticando-java-data-hora
